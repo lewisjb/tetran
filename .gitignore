@@ -1,0 +1,7 @@
+tetran
+*.log
+main
+*.mod
+*.o
+*.so
+bin/
